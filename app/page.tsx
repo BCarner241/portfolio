@@ -253,7 +253,7 @@ export default function Home() {
         <div className="flex flex-col gap-4">
 
           <a
-            href="/resume.pdf"
+            href="/Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="border border-gray-700 px-6 py-3 rounded-lg hover:bg-gray-900"
